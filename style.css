@@ -1,0 +1,17 @@
+.nav {
+    background-color: violet;
+    margin-bottom: 150px;
+}
+
+.navbar-brand {
+    background-color: transparent;
+}
+
+.container {
+    background-color: pink;
+}
+
+#top-banner {
+    width:100%;
+    height: auto;
+}
